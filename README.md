@@ -3,7 +3,7 @@ I’m Youssef Mohamed Elmeligy, an Artificial Intelligence student at Galala Uni
 
 I’ve published multiple papers in IEEE and international conferences on topics including medical imaging, transformers, and military object detection. I also work as a Student IT Assistant at Galala University and an AI System Developer at AMGroup.
 
-Passionate about building impactful AI solutions, I develop projects in medical diagnosis, automation, and IoT systems. Additionally, I create educational content on YouTube and teach Python programming. My goal is to become an AI engineer and researcher designing scalable, real-world intelligent systems.
+Passionate about building impactful AI solutions, I develop projects in medical diagnosis, automation, and IoT systems. Additionally, I create educational content on YouTube and teach Python programming.
 
 
 ## 🌐 Socials:
