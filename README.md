@@ -1,10 +1,13 @@
 # 💫 About Me:
-I’m Youssef Mohamed Elmeligy, an Artificial Intelligence student at Galala University, Egypt, specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and Optimization Algorithms. I have hands-on experience in developing and deploying intelligent systems using Python, C++, SQL, HTML/CSS/JS, OpenCV, PyTorch, and Scikit-learn.
+I am Youssef Mohamed Elmeligy, an Artificial Intelligence student at Galala University, passionate about building intelligent systems that create real impact in healthcare, and data-driven decision-making.
 
-I’ve published multiple papers in IEEE and international conferences on topics including medical imaging, transformers, and military object detection. I also work as a Student IT Assistant at Galala University and an AI System Developer at AMGroup.
+My experience spans machine learning, deep learning, computer vision, NLP, optimization algorithms, and full-stack development, supported by strong programming skills in Python, C++, SQL, and JavaScript. I’ve worked extensively with AI frameworks such as PyTorch, TensorFlow, Scikit-learn, Keras, and OpenCV, applying them in end-to-end projects—from data collection and preprocessing all the way to model deployment and real-world application design.
 
-Passionate about building impactful AI solutions, I develop projects in medical diagnosis, automation, and IoT systems. Additionally, I create educational content on YouTube and teach Python programming.
+I have contributed to multiple published research papers in areas including medical imaging, transformer models, gravitational anomaly detection, and military object detection. These experiences reflect my growing focus on building high-performance, explainable, and reliable AI systems.
 
+Professionally, I’ve worked as a Student IT Specialist at Galala University, supporting systems and providing technical troubleshooting, and as an AI System Developer at AMGroup, where I contributed to the development of intelligent enterprise solutions.
+
+I am passionate about research, and I’ve published multiple papers in reputable conferences (IEEE & international student conferences) spanning medical imaging, transformers, gravitational anomaly detection, and military object detection. These works highlight my growing focus on building explainable, high-performance AI models for critical applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssefelmeligy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ymm100453@gu.edu.eg) 
